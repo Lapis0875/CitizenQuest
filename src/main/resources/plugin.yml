@@ -10,4 +10,4 @@ website: https://lapis0875.github.io
 commands:
   citizenquest:
     description: Citizen Quest plugin`s main command. Several subcommand is supported to help player/operator`s quest management.
-    aliases: [cq, quest]
+    aliases: [q, cq, quest]
